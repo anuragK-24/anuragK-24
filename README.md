@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 
-I am Anurag Kumar, I am a Developer . I am a tech enthusiast . I am always open to collaborating on projects .
+I am Anurag Kumar, a Developer, tech enthusiast. <br>
+Always open to collaborate on open source projects.
 
 
 ![image](https://user-images.githubusercontent.com/88237080/194340267-c088b2db-48d2-4cbe-9bd3-43613d078145.png)
