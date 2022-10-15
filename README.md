@@ -1,5 +1,7 @@
+[![@anuragk24's Holopin board](https://holopin.me/anuragk24)](https://holopin.io/@anuragk24)
 
-## Hi, I am Anurag! Great to see you here! 👋
+
+<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 
 I am Anurag Kumar, I am a Developer . I am a tech enthusiast . I am always open to collaborating on projects .
 
