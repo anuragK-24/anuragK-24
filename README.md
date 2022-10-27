@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 
-<img align="right" alt="coding" width="400" height="300" width="200" src="https://user-images.githubusercontent.com/88237080/198315890-20d44227-49b8-4049-80e6-53000525d5e5.gif">
+<img align="right" alt="coding" width="400" height="250" width="150" src="https://user-images.githubusercontent.com/88237080/198315890-20d44227-49b8-4049-80e6-53000525d5e5.gif">
 
 
 
