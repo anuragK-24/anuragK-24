@@ -3,8 +3,13 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/88237080/198315890-20d44227-49b8-4049-80e6-53000525d5e5.gif">
+
+
+
 I am Anurag Kumar, a Developer, tech enthusiast. <br>
 Always open to collaborate on open source projects.
+
 
 
 <h3 align="left">Connect with me:</h3>
