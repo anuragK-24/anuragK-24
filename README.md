@@ -15,6 +15,12 @@ Always open to collaborate on open source projects.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anurags41695054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurags41695054" height="30" width="40" /></a>
+
+<a href="https://anuragk24.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88237080/198892538-1b7de4b2-b7bc-440a-ae75-e57cda0fba7d.png" alt="anuragk24.hashnode.dev"  />
+
+</a><a href="https://linkedin.com/in/anurag-kumar-4490ba1a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-kumar-4490ba1a6/" height="30" width="40" /></a>
+
+
 </p>
 
 
