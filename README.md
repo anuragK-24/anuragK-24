@@ -13,20 +13,18 @@ Always open to collaborate on open source projects.
 
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/anurags41695054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurags41695054" height="30" width="40" /></a>
+<div>
+<a href="https://twitter.com/AnuragS41695054" target="_blank"><img src="https://img.shields.io/badge/twitter-%314353F.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a  href="https://www.linkedin.com/in/anurag-kumar-4490ba1a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-</a><a href="https://linkedin.com/in/anurag-kumar-4490ba1a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-kumar-4490ba1a6/" height="30" width="40" /></a>
-
-
-</p>
+</div>
 
 
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hfr58gb&show_icons=true)
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hfr58gb&theme=react)](https://git.io/streak-stats) 
+<div> 
+ <div>
+   <img src="https://github-readme-stats.vercel.app/api?username=anuragK-24&show_icons=true&theme=dracula&locale=en" alt="anuragK-24" />
+ </div>
+ <div> 
  
 </p>
 <h3 align="left">Languages and Tools:</h3>
