@@ -35,4 +35,4 @@ Always open to collaborate on open source projects.
 
 * [How To Deploy Static Websites To Github- Complete Guide](https://anuragk24.hashnode.dev/how-to-deploy-static-websites-to-github-complete-guide)
 
-* Connecting Node.js to MySql using Express.js[]https://anuragk24.hashnode.dev/connecting-nodejs-to-mysql-using-expressjs
+* [Connecting Node.js to MySql using Express.js]https://anuragk24.hashnode.dev/connecting-nodejs-to-mysql-using-expressjs
