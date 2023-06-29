@@ -18,9 +18,14 @@ Always open to collaborate on open source projects.
 <a  href="https://www.linkedin.com/in/anurag-kumar-4490ba1a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
-
-
-<div> 
+<br>
+<br>
+<div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragK-24&layout=compact&theme=merko" alt="anuragK-24" /> 
+</div>
+<br>
+<br>
+<div > 
  <div>
    <img src="https://github-readme-stats.vercel.app/api?username=anuragK-24&show_icons=true&theme=dracula&locale=en" alt="anuragK-24" />
  </div>
