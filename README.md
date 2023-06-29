@@ -25,6 +25,9 @@ Always open to collaborate on open source projects.
 </div>
 <br>
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragK-24&layout=compact&theme=vision-friendly-dark" alt="anuragK-24" /> 
+<br>
+<br>
 <div > 
  <div>
    <img src="https://github-readme-stats.vercel.app/api?username=anuragK-24&show_icons=true&theme=dracula&locale=en" alt="anuragK-24" />
