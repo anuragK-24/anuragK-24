@@ -55,6 +55,7 @@ Always open to collaborate on open source projects.
 </div>
 
 ## [My Blogs](https://anuragk24.hashnode.dev/)
+* [Git - 1](https://anuragk24.hashnode.dev/git-1) 
 * [Introduction to Docker](https://anuragk24.hashnode.dev/introduction-to-docker) 
 * [Why DevOps?](https://anuragk24.hashnode.dev/why-devops)
 * [Functions in Javascript](https://anuragk24.hashnode.dev/functions-in-javascript)
