@@ -54,8 +54,9 @@ Always open to collaborate on open source projects.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
 # [My Blogs](https://anuragk24.hashnode.dev/)
-<a href="https://anuragk24.hashnode.dev/" target="_blank"><img align="right" alt="coding" width="400" height="220" width="150" src="https://github.com/anuragK-24/anuragK-24/assets/88237080/83eedb82-1f8b-4162-b0a3-f9329ed24559"></a>
+<a href="https://anuragk24.hashnode.dev/" target="_blank"><img align="right" alt="coding" width="400" height="220" width="150" src="https://github.com/anuragK-24/anuragK-24/assets/88237080/60d62d68-a791-47cc-8e6e-7a2010ab21e9"></a>
   
 * [Git - 1](https://anuragk24.hashnode.dev/git-1) 
 * [Introduction to Docker](https://anuragk24.hashnode.dev/introduction-to-docker) 
