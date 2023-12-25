@@ -57,6 +57,12 @@ Always open to collaborate on open source projects.
 # [My Blogs](https://anuragk24.hashnode.dev/)
 <a href="https://anuragk24.hashnode.dev/" target="_blank"><img align="right" alt="coding" width="400" height="220" width="150" src="https://github.com/anuragK-24/anuragK-24/assets/88237080/60d62d68-a791-47cc-8e6e-7a2010ab21e9"></a>
 
+* [Is Graph Bipartite?](https://anuragk24.hashnode.dev/is-graph-bipartite)
+  
+* [Number of Islands](https://anuragk24.hashnode.dev/number-of-islands)
+  
+* [Git-2](https://anuragk24.hashnode.dev/git-2)
+  
 * [The Virtual DOM](https://anuragk24.hashnode.dev/the-virtual-dom-your-web-development-superhero) 
 
 * [Git - 1](https://anuragk24.hashnode.dev/git-1)
