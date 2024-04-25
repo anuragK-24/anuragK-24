@@ -21,7 +21,7 @@ Always open to collaborate on open source projects.
 <div>
 <a  href="https://www.linkedin.com/in/anurag-kumar-4490ba1a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/AnuragS41695054" target="_blank"><img src="https://img.shields.io/badge/twitter-%314353F.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a  href="https://anuragkr-portfolio.netlify.app/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/portfolio%20-%230077B5.svg?&style=for-the-badge&logo=portfolio"  /></a>
+<a  href="https://anuragk24-portfolio.vercel.app/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/portfolio%20-%230077B5.svg?&style=for-the-badge&logo=portfolio"  /></a>
 </div>
 <br>
 <br>
