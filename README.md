@@ -62,9 +62,6 @@
     <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragK-24&layout=compact&theme=merko" alt="anuragK-24" /> </td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=anuragK-24&show_icons=true&theme=dracula&locale=en" alt="anuragK-24" /></td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" ><img src="https://github-readme-stats.vercel.app/api?username=anuragK-24&show_icons=true&theme=dark&locale=en" alt="anuragK-24" /></td>
-  </tr>
 </table>
 
 <br>
