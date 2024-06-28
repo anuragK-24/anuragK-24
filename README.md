@@ -74,7 +74,7 @@
 
 ## [My Blogs](https://anuragk24.hashnode.dev/)
 
-<a href="https://anuragk24.hashnode.dev/" target="_blank"><img align="right" alt="coding" width="400" height="220" src="https://github.com/anuragK-24/anuragK-24/assets/88237080/60d62d68-a791-47cc-8e6e-7a2010ab21e9"></a>
+<a href="https://anuragk24.hashnode.dev/" target="_blank"><img align="right" alt="coding" width="350" height="220" src="https://github.com/anuragK-24/anuragK-24/assets/88237080/60d62d68-a791-47cc-8e6e-7a2010ab21e9"></a>
 
 <table>
   <tr>
