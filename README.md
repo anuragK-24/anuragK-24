@@ -10,10 +10,11 @@
 <br>
 <br>
 <br>
+<br>
 
 
-I am Anurag Kumar, a Developer, tech enthusiast. <br>
-Always open to collaborate on open source projects.
+* I am Anurag Kumar, a Developer, tech enthusiast. <br>
+* Always open to collaborate on open source projects.
 
 
 
@@ -24,66 +25,109 @@ Always open to collaborate on open source projects.
 <a  href="https://anuragk24-portfolio.vercel.app/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/portfolio%20-%230077B5.svg?&style=for-the-badge&logo=portfolio"  /></a>
 </div>
 <br>
-<br>
-<div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragK-24&layout=compact&theme=merko" alt="anuragK-24" /> 
+<h3 align="left">Web Dev :</h3>
+<div align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </div>
+
+<div align="center">
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+</div>
+
+<h3 align="left">Languages :</h3>
+<div align="center">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+<h3 align="left">Databases :</h3>
+<div align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+
+<br/>
+
+<table>
+  <tr>
+    <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anuragK-24&layout=compact&theme=merko" alt="anuragK-24" /> </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=anuragK-24&show_icons=true&theme=dracula&locale=en" alt="anuragK-24" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" ><img src="https://github-readme-stats.vercel.app/api?username=anuragK-24&show_icons=true&theme=dark&locale=en" alt="anuragK-24" /></td>
+  </tr>
+</table>
+
 <br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragK-24&layout=compact&theme=vision-friendly-dark" alt="anuragK-24" /> 
-<br>
-<br>
-<div > 
- <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=anuragK-24&show_icons=true&theme=dracula&locale=en" alt="anuragK-24" />
- </div>
- <div> 
  
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
+    
 
-# [My Blogs](https://anuragk24.hashnode.dev/)
-<a href="https://anuragk24.hashnode.dev/" target="_blank"><img align="right" alt="coding" width="400" height="220" width="150" src="https://github.com/anuragK-24/anuragK-24/assets/88237080/60d62d68-a791-47cc-8e6e-7a2010ab21e9"></a>
+## [My Blogs](https://anuragk24.hashnode.dev/)
 
-* [From Architecture to Commands: Your Guide to Docker Engine](https://anuragk24.hashnode.dev/from-architecture-to-commands-your-guide-to-docker-engine)
+<a href="https://anuragk24.hashnode.dev/" target="_blank"><img align="right" alt="coding" width="400" height="220" src="https://github.com/anuragK-24/anuragK-24/assets/88237080/60d62d68-a791-47cc-8e6e-7a2010ab21e9"></a>
 
-* [Decoding deployment process](https://anuragk24.hashnode.dev/decoding-how-fullstack-applications-get-online)
+<table>
+  <tr>
+    <td> <a href="https://anuragk24.hashnode.dev/shell-scripting-simplified-streamlining-your-workflow">Unlocking the Power of Shell Scripting </a> </td>
+  </tr>
 
-* [Deploying Full-stack application](https://anuragk24.hashnode.dev/deploying-full-stack-application)
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/maximum-subarray-sum">Maximum Subarray Sum</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/from-architecture-to-commands-your-guide-to-docker-engine">From Architecture to Commands: Your Guide to Docker Engine</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/decoding-how-fullstack-applications-get-online">Decoding Deployment Process</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/deploying-full-stack-application">Deploying Full-Stack Application</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/last-moment-before-all-ants-fall-out-of-a-plank">Last Moment Before All Ants Fall Out of a Plank</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/is-graph-bipartite">Is Graph Bipartite?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/number-of-islands">Number of Islands</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/git-2">Git-2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/the-virtual-dom-your-web-development-superhero">The Virtual DOM</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/git-1">Git - 1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/introduction-to-docker">Introduction to Docker</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/why-devops">Why DevOps?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/functions-in-javascript">Functions in JavaScript</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/how-to-deploy-static-websites-to-github-complete-guide">How To Deploy Static Websites To GitHub: Complete Guide</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/connecting-nodejs-to-mysql-using-expressjs">Connecting Node.js to MySQL using Express.js</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anuragk24.hashnode.dev/react-props">React Props</a></td>
+  </tr>
+</table>
 
-* [Last Moment Before All Ants Fall Out of a Plank](https://anuragk24.hashnode.dev/last-moment-before-all-ants-fall-out-of-a-plank)
-
-* [Is Graph Bipartite?](https://anuragk24.hashnode.dev/is-graph-bipartite)
-  
-* [Number of Islands](https://anuragk24.hashnode.dev/number-of-islands)
-  
-* [Git-2](https://anuragk24.hashnode.dev/git-2)
-  
-* [The Virtual DOM](https://anuragk24.hashnode.dev/the-virtual-dom-your-web-development-superhero) 
-
-* [Git - 1](https://anuragk24.hashnode.dev/git-1)
-  
-* [Introduction to Docker](https://anuragk24.hashnode.dev/introduction-to-docker)
-  
-* [Why DevOps?](https://anuragk24.hashnode.dev/why-devops)
-
-* [Functions in Javascript](https://anuragk24.hashnode.dev/functions-in-javascript)
-
-* [How To Deploy Static Websites To Github- Complete Guide](https://anuragk24.hashnode.dev/how-to-deploy-static-websites-to-github-complete-guide)
-
-* [Connecting Node.js to MySql using Express.js](https://anuragk24.hashnode.dev/connecting-nodejs-to-mysql-using-expressjs)
-
-* [React props](https://anuragk24.hashnode.dev/react-props)
