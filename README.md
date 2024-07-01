@@ -75,6 +75,10 @@
 
 <table>
   <tr>
+    <td> <a href="https://anuragk24.hashnode.dev/deploying-and-accessing-your-first-application-on-aws">Deploying and Accessing Your First Application on AWS</a> </td>
+  </tr>
+<table>
+  <tr>
     <td> <a href="https://anuragk24.hashnode.dev/shell-scripting-simplified-streamlining-your-workflow">Unlocking the Power of Shell Scripting </a> </td>
   </tr>
 
