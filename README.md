@@ -75,6 +75,9 @@
 
 <table>
   <tr>
+    <td> <a href="https://anuragk24.hashnode.dev/revolutionizing-server-management-with-ansible">Revolutionizing Server Management with Ansible</a> </td>
+  </tr>
+  <tr>
     <td> <a href="https://anuragk24.hashnode.dev/deploying-and-accessing-your-first-application-on-aws">Deploying and Accessing Your First Application on AWS</a> </td>
   </tr>
   <tr>
