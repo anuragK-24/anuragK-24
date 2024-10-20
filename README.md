@@ -75,6 +75,16 @@
 
 <table>
   <tr>
+    <td> <a href="https://anuragk24.hashnode.dev/git-3">Git - 3 </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://anuragk24.hashnode.dev/github-actions-your-all-in-one-automation-buddy">Github Actions</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://anuragk24.hashnode.dev/find-the-longest-substring-containing-vowels-in-even-counts">Longest Substring Containing Vowels In Even Counts</a> </td>
+  </tr>
+
+  <tr>
     <td> <a href="https://anuragk24.hashnode.dev/revolutionizing-server-management-with-ansible">Revolutionizing Server Management with Ansible</a> </td>
   </tr>
   <tr>
