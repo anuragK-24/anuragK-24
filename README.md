@@ -75,6 +75,9 @@
 
 <table>
   <tr>
+    <td> <a href="https://anuragk24.hashnode.dev/securing-our-rest-api-with-jwt-oauth"> Securing Our REST API with JWT & OAuth </a> </td>
+  </tr>
+  <tr>
     <td> <a href="https://anuragk24.hashnode.dev/git-3">Git - 3 </a> </td>
   </tr>
   <tr>
