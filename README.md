@@ -93,7 +93,7 @@
 
 <div align="center">
   <a href="https://anuragk24.hashnode.dev/" target="_blank">
-    <img alt="coding" width="350" height="220" src="https://github.com/anuragK-24/anuragK-24/assets/88237080/60d62d68-a791-47cc-8e6e-7a2010ab21e9">
+    <img alt="coding" height="120" src="https://github.com/user-attachments/assets/91fc6f83-f6f4-4952-b04c-1974372f83db">
   </a>
 </div>
 
