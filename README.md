@@ -19,12 +19,9 @@
 - 🌐 Visit my [Portfolio](https://anuragk24-portfolio.vercel.app/) for a complete view of my work
 
 ---
-
+### Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragK-24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/anuragK-24?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
