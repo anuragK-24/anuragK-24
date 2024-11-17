@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello, I'm Anurag Kumar 👋</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Software+Engineer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&lines=Associate+Software+Engineer+%3A)" /> </h3>
 </h3>
 
 
