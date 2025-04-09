@@ -8,16 +8,19 @@
 
 ---
 
+### 👋 About Me
 
+💼 **Software Engineer at Accenture** | DevOps Practitioner | Full-Stack Developer  
+🚀 Proficient in cloud and DevOps tools including **AWS, Docker, Kubernetes, CI/CD, Ansible, and Terraform**  
+🛠️ Experienced in building scalable web applications using the **MERN stack** and **cloud-native technologies**    
+📈 Solved **1,100+ problems on LeetCode** | Contributor to **Hacktoberfest** & **BioDrop**  
+🌍 Passionate about contributing to **open-source** and collaborating on impactful tech solutions </br>
+🎓 Bachelor's in Computer Science from **Dayananda Sagar Institutions**, Bangalore  
+🌐 Check out my [Portfolio](https://anuragk24-portfolio.vercel.app/) for a complete view of my work  
 
-### 🌟 About Me
+---
 
-- 💻 **Passionate Developer** | **Tech Enthusiast**
-- 🌱 Currently diving deeper into **DevOps** and **Full Stack Development**
-- 🤝 Always open to collaborations on open-source projects and innovative tech ideas
-- 🎓 Computer Science Engineer from Dayananda Sagar Institutions, Bangalore
-- 🌐 Visit my [Portfolio](https://anuragk24-portfolio.vercel.app/) for a complete view of my work
-
+Let me know if you’d like to add a "Tech Stack" or "Pinned Projects" section too!
 ---
 ### Profile Views
 <p align="center">
@@ -33,40 +36,6 @@
   <a href="https://anuragk24-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5.svg?&style=for-the-badge&logo=portfolio" alt="Portfolio"></a>
 </p>
 
----
-
-
-
-### 💻 Tech Stack
-
-#### Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-</p>
-
-#### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-#### Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
 
 ---
 
@@ -96,6 +65,7 @@
 
 | Blog Title                                                                                                       | Description                             |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| [The Fun World of JavaScript](https://anuragk24.hashnode.dev/the-fun-world-of-javascript)                        | Fun and insightful JavaScript quirks   |
 | [Securing Our REST API with JWT & OAuth](https://anuragk24.hashnode.dev/securing-our-rest-api-with-jwt-oauth)    | A guide to enhancing API security.      |
 | [Git - 3](https://anuragk24.hashnode.dev/git-3)                                                                  | Advanced techniques for Git mastery.    |
 | [GitHub Actions](https://anuragk24.hashnode.dev/github-actions-your-all-in-one-automation-buddy)                 | Simplifying automation with GitHub.     |
@@ -113,9 +83,9 @@
 | [Introduction to Docker](https://anuragk24.hashnode.dev/introduction-to-docker)                                  | Basics of containerization.             |
 | [Why DevOps?](https://anuragk24.hashnode.dev/why-devops)                                                         | DevOps advantages explained.            |
 | [Functions in JavaScript](https://anuragk24.hashnode.dev/functions-in-javascript)                                | Functional programming in JS.           |
-| [Complete Guide to Deploying Static Websites on GitHub](https://anuragk24.hashnode.dev/how-to-deploy-static-websites-to-github-complete-guide) | Step-by-step guide. |
 | [Connecting Node.js to MySQL](https://anuragk24.hashnode.dev/connecting-nodejs-to-mysql-using-expressjs)         | Database integration tutorial.          |
 | [React Props](https://anuragk24.hashnode.dev/react-props)                                                        | Understanding props in React.           |
+| [Complete Guide to Deploying Static Websites on GitHub](https://anuragk24.hashnode.dev/how-to-deploy-static-websites-to-github-complete-guide) | Step-by-step guide. |
 
 ---
 
