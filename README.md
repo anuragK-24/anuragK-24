@@ -65,6 +65,7 @@ Let me know if you’d like to add a "Tech Stack" or "Pinned Projects" section t
 
 | Blog Title                                                                                                       | Description                             |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| [JavaScript Module Systems](https://anuragk24.hashnode.dev/javascript-module-systems)                            | Fun and insightful about CJS and ESM   |
 | [The Fun World of JavaScript](https://anuragk24.hashnode.dev/the-fun-world-of-javascript)                        | Fun and insightful JavaScript quirks   |
 | [Securing Our REST API with JWT & OAuth](https://anuragk24.hashnode.dev/securing-our-rest-api-with-jwt-oauth)    | A guide to enhancing API security.      |
 | [Git - 3](https://anuragk24.hashnode.dev/git-3)                                                                  | Advanced techniques for Git mastery.    |
