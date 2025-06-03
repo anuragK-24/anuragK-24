@@ -18,9 +18,7 @@
 🎓 Bachelor's in Computer Science from **Dayananda Sagar Institutions**, Bangalore  
 🌐 Check out my [Portfolio](https://anuragk24-portfolio.vercel.app/) for a complete view of my work  
 
----
 
-Let me know if you’d like to add a "Tech Stack" or "Pinned Projects" section too!
 ---
 ### Profile Views
 <p align="center">
